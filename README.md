@@ -8,3 +8,4 @@
 # Leetcode QA Python 3 Binary Trees
 
 - Leetcode 102 Binary Tree Level Order Traversal
+- Leetcode 617 Merge Two Binary Trees
