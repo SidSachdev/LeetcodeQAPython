@@ -5,6 +5,7 @@
 - Leetcode 122 Best Time to Buy and Sell Stock II (Python3)
 - Leetcode 146 LRU Cache O(1) :)
 - Leetcode 20 Valid Parenthesis
+- Leetcode 36 Valid Sudoku
 
 
 # Leetcode QA Python 3 Binary Trees
