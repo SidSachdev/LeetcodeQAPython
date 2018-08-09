@@ -6,6 +6,8 @@
 - Leetcode 146 LRU Cache O(1) :)
 - Leetcode 20 Valid Parenthesis
 - Leetcode 36 Valid Sudoku
+- Leetcode 62 Unique Paths
+- Leetcode 63 Unique Paths II
 
 
 # Leetcode QA Python 3 Binary Trees
