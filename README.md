@@ -8,6 +8,7 @@
 - Leetcode 36 Valid Sudoku
 - Leetcode 62 Unique Paths
 - Leetcode 63 Unique Paths II
+- Leetcode 322 Coin Change (Rec and Dynamic Programming)
 
 
 # Leetcode QA Python 3 Binary Trees
